@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM notes/Locations/8. Yamano/Island 5/Island 5.md",
+                "file": "DM notes/Characters/Mitsuri Hayashi.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM notes/Locations/8. Yamano/Island 5/Island 5.md",
+                "file": "DM notes/Characters/Mitsuri Hayashi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM notes/Locations/8. Yamano/Island 5/Island 5.md",
+                "file": "DM notes/Characters/Mitsuri Hayashi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM notes/Locations/8. Yamano/Island 5/Island 5.md"
+                "file": "DM notes/Characters/Mitsuri Hayashi.md"
               }
             }
           },
@@ -166,12 +166,16 @@
   },
   "active": "e099bcb4a17eafdb",
   "lastOpenFiles": [
-    "DM notes/Locations/8. Yamano/Yamano.md",
+    "DM notes/Development 10 (without background).md",
+    "DM notes/Characters/Ren Hayashi.md",
+    "DM notes/Characters/Mitsuri Hayashi.md",
+    "DM notes/Characters",
     "DM notes/Drawing Zankoku.md",
+    "DM notes/Locations/8. Yamano/Island 5/Island 5.md",
+    "DM notes/Locations/8. Yamano/Yamano.md",
     "DM notes/Locations",
     "DM notes/Locations/8. Yamano/Tremor strait.md",
     "DM notes/Locations/8. Yamano/Scarlet monastery.md",
-    "DM notes/Locations/8. Yamano/Island 5/Island 5.md",
     "DM notes/8. Yamano/Puncture strait.md",
     "DM notes/Locations/8. Yamano/Island 4 (Ryumon)/Ryumon.md",
     "DM notes/Locations/8. Yamano/Island 3/Renkajima.md",
@@ -187,7 +191,6 @@
     "DM notes/Locations/8. Yamano/Island 1",
     "DM notes/Locations/8. Yamano",
     "DM notes",
-    "New folder",
-    "repository"
+    "New folder"
   ]
 }
