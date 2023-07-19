@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM notes/8. Yamano/Yamano.md",
+                "file": "DM notes/Locations/8. Yamano/Yamano.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM notes/8. Yamano/Yamano.md",
+                "file": "DM notes/Locations/8. Yamano/Yamano.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM notes/8. Yamano/Yamano.md",
+                "file": "DM notes/Locations/8. Yamano/Yamano.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM notes/8. Yamano/Yamano.md"
+                "file": "DM notes/Locations/8. Yamano/Yamano.md"
               }
             }
           },
@@ -160,29 +160,32 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "0a220212894f3b19",
   "lastOpenFiles": [
-    "DM notes/8. Yamano/Tremor strait.md",
-    "DM notes/8. Yamano/Scarlet monastery.md",
-    "DM notes/8. Yamano/Island 5/Island 5.md",
+    "DM notes/Drawing Zankoku.md",
+    "DM notes/Locations",
+    "DM notes/Locations/8. Yamano/Tremor strait.md",
+    "DM notes/Locations/8. Yamano/Scarlet monastery.md",
+    "DM notes/Locations/8. Yamano/Island 5/Island 5.md",
     "DM notes/8. Yamano/Puncture strait.md",
-    "DM notes/8. Yamano/Island 4 (Ryumon)/Ryumon.md",
-    "DM notes/8. Yamano/Island 3/Renkajima.md",
-    "DM notes/8. Yamano/Island 2 (Kizunashima)/Komegawa.md",
-    "DM notes/8. Yamano/Island 2 (Kizunashima)/Kizunashima.md",
-    "DM notes/8. Yamano/Island 2 (Kizunashima)/Island 2 port town.md",
-    "DM notes/8. Yamano/Island 1/Island 1.md",
+    "DM notes/Locations/8. Yamano/Island 4 (Ryumon)/Ryumon.md",
+    "DM notes/Locations/8. Yamano/Island 3/Renkajima.md",
+    "DM notes/Locations/8. Yamano/Island 2 (Kizunashima)/Komegawa.md",
+    "DM notes/Locations/8. Yamano/Island 2 (Kizunashima)/Kizunashima.md",
+    "DM notes/Locations/8. Yamano/Island 2 (Kizunashima)/Island 2 port town.md",
+    "DM notes/Locations/8. Yamano/Island 1/Island 1.md",
     "test.md",
-    "DM notes/8. Yamano/Island 5",
-    "DM notes/8. Yamano/Island 4 (Ryumon)",
-    "DM notes/8. Yamano/Island 3",
-    "DM notes/8. Yamano/Island 2 (Kizunashima)",
-    "DM notes/8. Yamano/Island 1",
-    "DM notes/8. Yamano/Yamano.md",
-    "DM notes/8. Yamano",
+    "DM notes/Locations/8. Yamano/Island 5",
+    "DM notes/Locations/8. Yamano/Island 4 (Ryumon)",
+    "DM notes/Locations/8. Yamano/Island 3",
+    "DM notes/Locations/8. Yamano/Island 2 (Kizunashima)",
+    "DM notes/Locations/8. Yamano/Island 1",
+    "DM notes/Locations/8. Yamano/Yamano.md",
+    "DM notes/Locations/8. Yamano",
     "DM notes",
     "New folder",
     "repository"

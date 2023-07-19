@@ -43,3 +43,8 @@ Imports a lot of iron and coal.
 Blacksmiths that make traditional weapons
 Export rice
 import clothing material
+
+
+### Map
+
+![[Drawing Zankoku]]
