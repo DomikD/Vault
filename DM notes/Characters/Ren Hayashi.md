@@ -21,7 +21,7 @@ Dragon ranger
 [[Island 5]]
 
 
-connection with [[Ivan's character]]
+
 
 ### Background
 
