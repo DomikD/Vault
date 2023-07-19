@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM notes/Locations/8. Yamano/Island 2 (Kizunashima)/Komegawa.md",
+                "file": "DM notes/TO DO/Player To-Do.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM notes/Locations/8. Yamano/Island 2 (Kizunashima)/Komegawa.md",
+                "file": "DM notes/TO DO/Player To-Do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM notes/Locations/8. Yamano/Island 2 (Kizunashima)/Komegawa.md",
+                "file": "DM notes/TO DO/Player To-Do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM notes/Locations/8. Yamano/Island 2 (Kizunashima)/Komegawa.md"
+                "file": "DM notes/TO DO/Player To-Do.md"
               }
             }
           },
@@ -166,9 +166,16 @@
   },
   "active": "e099bcb4a17eafdb",
   "lastOpenFiles": [
+    "DM notes/Locations/8. Yamano/Island 2 (Kizunashima)/Komegawa.md",
+    "DM notes/TO DO/Player To-Do.md",
+    "DM notes/TO DO/Untitled",
+    "DM notes/TO DO",
+    "DM notes/Characters/NPC",
+    "DM notes/Characters/NPC/Komegawa woman.md",
+    "DM notes/Characters/NPC/old fishermen.md",
     "DM notes/Locations/8. Yamano/Island 2 (Kizunashima)/Kizunashima.md",
     "DM notes/Characters/Ren Hayashi.md",
-    "DM notes/Characters/Mitsuri Hayashi.md",
+    "DM notes/Characters/NPC/Mitsuri Hayashi.md",
     "DM notes/Development 10 (without background).md",
     "DM notes/Characters",
     "DM notes/Drawing Zankoku.md",
@@ -180,7 +187,6 @@
     "DM notes/8. Yamano/Puncture strait.md",
     "DM notes/Locations/8. Yamano/Island 4 (Ryumon)/Ryumon.md",
     "DM notes/Locations/8. Yamano/Island 3/Renkajima.md",
-    "DM notes/Locations/8. Yamano/Island 2 (Kizunashima)/Komegawa.md",
     "DM notes/Locations/8. Yamano/Island 2 (Kizunashima)/Island 2 port town.md",
     "DM notes/Locations/8. Yamano/Island 1/Island 1.md",
     "test.md",
@@ -188,9 +194,6 @@
     "DM notes/Locations/8. Yamano/Island 4 (Ryumon)",
     "DM notes/Locations/8. Yamano/Island 3",
     "DM notes/Locations/8. Yamano/Island 2 (Kizunashima)",
-    "DM notes/Locations/8. Yamano/Island 1",
-    "DM notes/Locations/8. Yamano",
-    "DM notes",
-    "New folder"
+    "DM notes/Locations/8. Yamano/Island 1"
   ]
 }
