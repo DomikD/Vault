@@ -6,14 +6,6 @@ Status: 20%
 
 #Location #Yamano #Island
 
-- [ ] work out the borders of civilization
-	- [ ] establish cities
-	- [ ] establish routes
-- [ ] work out the nature
-- [ ] work out "dungeons"
-
-
-
 
 [[Island 5]] is subdivided into 2 inhabited areas: the [[Scarlet monastery]] and lower lands. Despite its close vicinity to the [[Mahilaya Archipelago]], there isn't a lot of trade. This is due to the mountains that close off the East. This makes it hard to board. It is generally preferred to embark on [[Renkajima]]. 
 
