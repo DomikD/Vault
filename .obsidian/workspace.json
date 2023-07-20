@@ -19,11 +19,9 @@
             "id": "e099bcb4a17eafdb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "DM notes/TO DO/Player To-Do.md",
-                "mode": "source",
-                "source": false
+                "file": "DM notes/Development 10 (without background).md"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM notes/TO DO/Player To-Do.md",
+                "file": "DM notes/Development 10 (without background).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM notes/TO DO/Player To-Do.md",
+                "file": "DM notes/Development 10 (without background).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM notes/TO DO/Player To-Do.md"
+                "file": "DM notes/Development 10 (without background).md"
               }
             }
           },
@@ -166,8 +164,8 @@
   },
   "active": "e099bcb4a17eafdb",
   "lastOpenFiles": [
-    "DM notes/Locations/8. Yamano/Island 2 (Kizunashima)/Komegawa.md",
     "DM notes/TO DO/Player To-Do.md",
+    "DM notes/Locations/8. Yamano/Island 2 (Kizunashima)/Komegawa.md",
     "DM notes/TO DO/Untitled",
     "DM notes/TO DO",
     "DM notes/Characters/NPC",
