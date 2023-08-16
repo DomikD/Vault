@@ -24,9 +24,19 @@
                 "file": "DM notes/Development 10 (without background).md"
               }
             }
+          },
+          {
+            "id": "ffa7bd56d30ad0cf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +172,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e099bcb4a17eafdb",
+  "active": "ffa7bd56d30ad0cf",
   "lastOpenFiles": [
     "DM notes/TO DO/Player To-Do.md",
     "DM notes/Locations/8. Yamano/Island 2 (Kizunashima)/Komegawa.md",
