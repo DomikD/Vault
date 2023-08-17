@@ -19,9 +19,11 @@
             "id": "e099bcb4a17eafdb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "DM notes/Development 10 (without background).md"
+                "file": "test.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM notes/Development 10 (without background).md",
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM notes/Development 10 (without background).md",
+                "file": "test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM notes/Development 10 (without background).md"
+                "file": "test.md"
               }
             }
           },
@@ -164,6 +166,7 @@
   },
   "active": "e099bcb4a17eafdb",
   "lastOpenFiles": [
+    "DM notes/Development 10 (without background).md",
     "DM notes/TO DO/Player To-Do.md",
     "DM notes/Locations/8. Yamano/Island 2 (Kizunashima)/Komegawa.md",
     "DM notes/TO DO/Untitled",
@@ -174,7 +177,6 @@
     "DM notes/Locations/8. Yamano/Island 2 (Kizunashima)/Kizunashima.md",
     "DM notes/Characters/Ren Hayashi.md",
     "DM notes/Characters/NPC/Mitsuri Hayashi.md",
-    "DM notes/Development 10 (without background).md",
     "DM notes/Characters",
     "DM notes/Drawing Zankoku.md",
     "DM notes/Locations/8. Yamano/Island 5/Island 5.md",
