@@ -11,8 +11,12 @@
             "id": "a8137da7c3f435e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DM notes/Locations/1. Vriksha Rajya/Vidya Vriksha.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DM notes/Locations/1. Vriksha Rajya/Vidya Vriksha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DM notes/Locations/1. Vriksha Rajya/Vidya Vriksha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DM notes/Locations/1. Vriksha Rajya/Vidya Vriksha.md"
+              }
             }
           },
           {
@@ -147,14 +155,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0686ee1789e60c5e",
+  "active": "a8137da7c3f435e0",
   "lastOpenFiles": [
+    "DM notes/Locations/1. Vriksha Rajya/split cities.md",
+    "DM notes/Locations/1. Vriksha Rajya/gate cities.md",
     "test.md",
     "DM notes/Locations/1. Vriksha Rajya/Vrikshiya.md",
     "DM notes/Locations/1. Vriksha Rajya/Vriksha Rajya.md",
     "DM notes/Locations/1. Vriksha Rajya/Vidya Vriksha.md",
-    "DM notes/Locations/1. Vriksha Rajya/split cities.md",
-    "DM notes/Locations/1. Vriksha Rajya/gate cities.md",
     "DM notes/Locations/1. Vriksha Rajya/Western Root/Western Root.md",
     "DM notes/Locations/1. Vriksha Rajya/Western Root/Western Root Split village.md",
     "DM notes/Locations/1. Vriksha Rajya/Western Root",
