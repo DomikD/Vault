@@ -1,0 +1,5 @@
+Ren considered Asahi somewhat of a father figure where his father had failed him. The older men had been in the monetary for longer than Ren have lived. He loved to tell stories of his discoveries, especially one in which he claimed to have outsmarted a young wyrmling. Most of them had *some* truth to them, and when his story proved to be wrong he simply claimed he got the detail wrong and blamed his old memory. Asahi had small loops in his earlobes and a slowly greying beard, his hair kept short.
+
+Goro was on the younger side, having joined the monastery after Ren had. He barely reached adulthood and never shaved his mustache which made him look both older and younger than he actually was. He was clumsy and would often be late for gatherings, but the moment he picked up a staff his aura would change. He loved the thrill of sparring without enjoying hurting others.
+
+Rey was Ren's superior. She seemed rather friendly and willing to help anyone out, and even to be friends but Ren wasn't exactly sure how to interact with her. 

@@ -1,0 +1,7 @@
+- [ ] Work out NPC's
+	- [ ] [[Komegawa woman]]
+	- [ ] [[old fishermen]]
+	- [ ] family
+		- [ ] father
+		- [ ] mother
+		- [ ] brother
