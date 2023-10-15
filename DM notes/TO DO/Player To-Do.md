@@ -5,3 +5,9 @@
 		- [ ] father
 		- [ ] mother
 		- [ ] brother
+- [ ] Work out the people for the excursion to [[Vriksha Rajya]].
+	- [ ] [[Excursion member 1]]
+	- [ ] [[Excursion member 2]]
+	- [ ] [[Scarlet monastery member 1]]
+	- [ ] [[Scarlet monastery member 2]]
+You can adjust how many, but at least one for the Excursion and Scarlet monastery.
