@@ -4,7 +4,7 @@
 	- [ ] family
 		- [x] father
 		- [ ] mother
-		- [ ] brother
+		- [x] brother
 - [x] Work out the people for the excursion to [[Vriksha Rajya]].
 	- [ ] [[Excursion member 1]]
 	- [ ] [[Excursion member 2]]
