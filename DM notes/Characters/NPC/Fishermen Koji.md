@@ -1,0 +1,1 @@
+Koji is a man in his late 40's who is missing his pinky and ring finger at his right hand, lost because of pirates.

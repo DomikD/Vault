@@ -1,0 +1,1 @@
+Taro was Ren's oldest brother and the person who mostly raised him. Despite being the oldest, he was the weakest of the whole family and would often get sick. Unable to tend to work out in the fields, he stayed home and took care of the little Ren. Not that Taro was too much older, as he'd been around 7 when Ren was born.

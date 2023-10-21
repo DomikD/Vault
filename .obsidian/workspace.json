@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM notes/Characters/NPC/old fishermen.md",
+                "file": "DM notes/Characters/NPC/Fishermen Koji.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excursion member 2.md",
+                "file": "DM notes/Characters/NPC/Taro Hayashi.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excursion member 2.md",
+                "file": "DM notes/Characters/NPC/Taro Hayashi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excursion member 2.md",
+                "file": "DM notes/Characters/NPC/Taro Hayashi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excursion member 2.md"
+                "file": "DM notes/Characters/NPC/Taro Hayashi.md"
               }
             }
           },
@@ -204,13 +204,18 @@
   },
   "active": "ad4073ccd60830f9",
   "lastOpenFiles": [
-    "Excursion member 1.md",
-    "Excursion member 2.md",
-    "Scarlet monastery member 1.md",
-    "DM notes/Characters/Ren Hayashi.md",
+    "DM notes/Characters/NPC/Tojiro Hayashi.md",
+    "DM notes/Characters/NPC/Taro Hayashi.md",
     "DM notes/TO DO/Player To-Do.md",
+    "DM notes/Characters/Ren Hayashi.md",
+    "DM notes/Characters/NPC/Excursion member 1.md",
+    "DM notes/Characters/NPC/Excursion member 2.md",
+    "DM notes/Characters/NPC/Mitsuri Hayashi.md",
+    "DM notes/Characters/NPC/Komegawa woman.md",
+    "DM notes/Characters/NPC/Fishermen Koji.md",
+    "DM notes/Characters/NPC/Scarlet monastery member 2.md",
+    "DM notes/Characters/NPC/Scarlet monastery member 1.md",
     "DM notes/Development 10 (without background).md",
-    "Scarlet monastery member 2.md",
     "DM notes/Characters/NPC/People From the Monastery.md",
     "DM notes/Drawing Zankoku.md",
     "conflict-files-obsidian-git.md",
@@ -227,11 +232,6 @@
     "DM notes/Mechanics/Elemental Ki",
     "DM notes/Mechanics",
     "DM notes/The Calendar/The Quantum Moon.md",
-    "DM notes/The Calendar/The Moon of the Waves.md",
-    "DM notes/The Calendar/The Moon of the Tree.md",
-    "DM notes/The Calendar/The Moon of the Stone Forest.md",
-    "DM notes/The Calendar/The Moon of the Plains.md",
-    "DM notes/The Calendar/The Moon of the Orchard.md",
     "DM notes/The Calendar",
     "DM notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona",
     "DM notes/Locations/1. Vriksha Rajya/Northern Root",
