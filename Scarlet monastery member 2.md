@@ -1,0 +1,1 @@
+Goro was on the younger side, having joined the monastery after Ren had. He barely reached adulthood and never shaved his mustache which made him look both older and younger than he actually was. He was clumsy and would often be late for gatherings, but the moment he picked up a staff his aura would change. He loved the thrill of sparring without enjoying hurting others.

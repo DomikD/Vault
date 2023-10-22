@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0fb06ead172642b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM notes/TO DO/Player To-Do.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM notes/TO DO/Player To-Do.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM notes/TO DO/Player To-Do.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -155,13 +168,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a8137da7c3f435e0",
+  "active": "0fb06ead172642b8",
   "lastOpenFiles": [
-    "DM notes/Characters/NPC/Komegawa woman.md",
     "DM notes/TO DO/Player To-Do.md",
+    "conflict-files-obsidian-git.md",
+    "Scarlet monastery member 2.md",
+    "Scarlet monastery member 1.md",
+    "Excursion member 2.md",
+    "Excursion member 1.md",
+    "DM notes/Characters/NPC/Komegawa woman.md",
     "DM notes/Characters/NPC/People From the Monastery.md",
     "DM notes/Locations/1. Vriksha Rajya/Northern Root/Northern Root.md",
-    "conflict-files-obsidian-git.md",
     "DM notes/Locations/1. Vriksha Rajya/Northern Root/Gulmohar.md",
     "DM notes/Locations/1. Vriksha Rajya/Northern Root/Forest of flames.md",
     "DM notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona.md",
@@ -180,12 +197,8 @@
     "DM notes/Locations/1. Vriksha Rajya/Western Root",
     "DM notes/Locations/1. Vriksha Rajya/Southern Root/Sangri-La Mountain range.md",
     "DM notes/Locations/1. Vriksha Rajya/Southern Root/Southern Root.md",
-    "DM notes/Locations/1. Vriksha Rajya/Southern Root/Southern Root Split village.md",
     "DM notes/Locations/1. Vriksha Rajya/Southern Root",
-    "DM notes/Locations/1. Vriksha Rajya/Northern Root/Northern Root Split village.md",
-    "DM notes/Locations/1. Vriksha Rajya/Northern Root/Northern Root gate city.md",
     "DM notes/Locations/1. Vriksha Rajya/Northern Root",
-    "DM notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar/Trading guild.md",
     "DM notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar",
     "DM notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona",
     "DM notes/Locations/1. Vriksha Rajya/Eastern Root",
