@@ -27,7 +27,7 @@ Dragon ranger
 
 Mother died giving birth to him. He still would have siblings as he was the youngest out of three.
 
-The only woman he ever got along with was his [[Mitsuri Hayashi]], which left to join the army when he was around 8. She would come back now and then, each time her expression turning grimmer. One day would a soldier would appear in her stead, saying she didn't make it. While he suspected suspect a day like this might come, it didn't hurt any less. He hated how some of his family seemed to be comforted as he went on and on about how she served the country.
+The only woman he ever got along with was his sister, [[Mitsuri Hayashi]], which left to join the army when he was around 8. She would come back now and then, each time her expression turning grimmer. One day a soldier would appear in her stead, saying she didn't make it. While he suspected a day like this might come, it didn't hurt any less. He hated how some of his family seemed to be comforted as the stranger went on and on about how she served the country.
 
 Well, I was thinking what kind of family was this? Not a great one. In reality, his sister didn't "didn't make it," but ==committed suicide== instead. She would return to her family seeking any kind of help she could get, but it didn't help. The exact reason she did it isn't that important, though many would apply.
 

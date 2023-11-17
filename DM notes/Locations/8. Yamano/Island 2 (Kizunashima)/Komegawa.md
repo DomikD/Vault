@@ -12,7 +12,7 @@ Komegawa (meaning "rice river"), [[Ren Hayashi]]'s village
 Okay so it might be up to change but so far I'm thinking that the village I grew up in wasn't the biggest. A dozen families in total who own the land here and there, mostly farmland, lots of wheat (or other plant that would fit the Japanese setting). Your standard rural area
 
 
-Aside from my parents I would remember an [[old fishermen]]. One of the best entertainers in proximity, he would tell tales that sure would spark the creativity of a child. Another one could be a woman whose way of being taught me that you can do more than just work the fields. [[Komegawa woman]] She studied during most of her free time and eventually left the village to study further
+Aside from my parents I would remember an [[Fishermen Koji]]. One of the best entertainers in proximity, he would tell tales that sure would spark the creativity of a child. Another one could be a woman whose way of being taught me that you can do more than just work the fields. [[Komegawa woman]] She studied during most of her free time and eventually left the village to study further
 
 
 

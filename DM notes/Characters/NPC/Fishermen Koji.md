@@ -1,0 +1,1 @@
+Koji is a man in his late 40's who is missing his pinky and ring finger at his right hand, lost because of pirates. He's familiar with all the people in the village and is a drinking buddy of many husbands. He would often tell Tojiro to be softer on his family and that things will be better for him eventually.
