@@ -1,13 +1,13 @@
 - [ ] Work out NPC's
 	- [ ] [[Komegawa woman]]
-	- [ ] [[Fishermen Koji]]
+	- [x] [[Fishermen Koji]]
 	- [ ] family
 		- [x] father
 		- [ ] mother
 		- [x] brother
 - [x] Work out the people for the excursion to [[Vriksha Rajya]].
-	- [ ] [[Excursion member 1]]
-	- [ ] [[Excursion member 2]]
-	- [ ] [[Scarlet monastery member 1]]
-	- [ ] [[Scarlet monastery member 2]]
+	- [x] [[Excursion member 1]]
+	- [x] [[Excursion member 2]]
+	- [x] [[Scarlet monastery member 1]]
+	- [x] [[Scarlet monastery member 2]]
 You can adjust how many, but at least one for the Excursion and Scarlet monastery.
