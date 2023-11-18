@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM notes/TO DO/Player To-Do.md",
+                "file": "DM notes/Locations/1. Vriksha Rajya/Vidya Vriksha.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM notes/TO DO/Player To-Do.md",
+                "file": "DM notes/Locations/1. Vriksha Rajya/Vidya Vriksha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM notes/TO DO/Player To-Do.md",
+                "file": "DM notes/Locations/1. Vriksha Rajya/Vidya Vriksha.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM notes/TO DO/Player To-Do.md"
+                "file": "DM notes/Locations/1. Vriksha Rajya/Vidya Vriksha.md"
               }
             }
           },
@@ -204,9 +204,11 @@
   },
   "active": "ad4073ccd60830f9",
   "lastOpenFiles": [
+    "DM notes/Drawing Zankoku.md",
+    "DM notes/Development 10 (without background).md",
+    "DM notes/TO DO/Player To-Do.md",
     "DM notes/Characters/NPC/Tojiro Hayashi.md",
     "DM notes/Characters/NPC/Fishermen Koji.md",
-    "DM notes/TO DO/Player To-Do.md",
     "DM notes/Characters/NPC/Taro Hayashi.md",
     "DM notes/Characters/Ren Hayashi.md",
     "DM notes/Characters/NPC/Excursion member 1.md",
@@ -215,9 +217,7 @@
     "DM notes/Characters/NPC/Komegawa woman.md",
     "DM notes/Characters/NPC/Scarlet monastery member 2.md",
     "DM notes/Characters/NPC/Scarlet monastery member 1.md",
-    "DM notes/Development 10 (without background).md",
     "DM notes/Characters/NPC/People From the Monastery.md",
-    "DM notes/Drawing Zankoku.md",
     "conflict-files-obsidian-git.md",
     "DM notes/Mechanics/Elemental Ki/wood.md",
     "DM notes/Mechanics/Elemental Ki/water.md",
