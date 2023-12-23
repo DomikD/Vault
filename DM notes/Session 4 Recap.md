@@ -1,4 +1,4 @@
-- [ ] Day one of travel
+- [ ] Day 1 of travel
 	- [ ] Encounter with the poachers
 		- [ ] Ehri talks about looking for mushrooms
 		- [ ] Tommy sneaks around to open the door
