@@ -1,0 +1,51 @@
+- [ ] Day one of travel
+	- [ ] Encounter with the poachers
+		- [ ] Ehri talks about looking for mushrooms
+		- [ ] Tommy sneaks around to open the door
+		- [ ] The 4 dwarves get ordered to kill Ehri
+	- [ ] Fighting ensues
+		- [ ] part 1
+			- [ ] Ebha (Lucia's character) gets freed and goes to take her weapons
+			- [ ] Tommy fights with the woman in gold
+			- [ ] Ren shoots from afar
+			- [ ] Occi grapples one of them
+			- [ ] Jong-Min uses their flame cat
+			- [ ] Ehri runs away while casting some spells
+			- [ ] Aainaye alerts Jong-Min and Ren
+		- [ ] part 2
+			- [ ] The dwarves become big
+			- [ ] Jong-Min kills one of them
+			- [ ] Occi kills another
+		- [ ] part 3 
+			- [ ] The woman gives up
+			- [ ] Ren shoots Occi
+			- [ ] Ren slaps Jong-Min (drama ensues)
+		- [ ] part 4 
+			- [ ] interrogate the woman
+				- [ ] mentions on attack of Ren's group
+				- [ ] why the need for animals
+					- [ ] magical essence
+					- [ ] creating "magical" items
+				- [ ] More about the Shang You family
+				- [ ] Ebha kills her
+				- [ ] The sending stone is in someone's possession?
+	- [ ] All watches 
+		- [ ] Occi and Tommy have a conversation of being unethical, but doing it discreetly
+		- [ ] Jong-Min and Aainaye read together
+		- [ ] Ehri and Ren talk about Jong-Min putting people on fire during the festival of color
+		- [ ] Tommy having talks with Jong-Min about Shang you
+		- [ ] (if you know more HAHA)
+- [ ] Day 2 of travel
+	- [ ] encounter with space panther
+		- [ ] Ebha touches it and goes into a sort of astral realm
+		- [ ] Ehri tries touch as well and it goes bad
+		- [ ] They have a small kerfuffle
+		- [ ] The panther says "do not anger the tiger mistress" before leaving
+- [ ] Day 3 of travel
+	- [ ] get to the city of [[Vayunagar]]
+- [ ] Day 4 of travel
+	- [ ] The area gets more swampy and it is raining
+- [ ] Day 5 of travel
+	- [ ] get to the "cursed" forest 
+	- [ ] find a missing limb and a sword
+	- [ ] return to regather and then hear the screams of a man getting eaten
